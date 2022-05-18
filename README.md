@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello! Nice to see you.</h1>
 
- My name is JiSoo!🙋‍♀️ I'm studying for be a frontend-developer!💻 My final goal is UX Engineer.<br>
+ My name is JiSoo!🙋‍♀️ I'm studying for become a frontend-developer!💻 My final goal is UX Engineer.<br>
  I love to do coding!<br>
  My profile's cat is my pet and his name is Hotteok!🐱<br>
  I really like all of sweets🍰.<br>
  My favorite excercise is climbing🧗‍♀️.<br>
  I also interested in reading book.<br>
- 
+
 
 
 <br />
