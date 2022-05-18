@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Github](https://img.shields.io/badge/-Github-2d2d2d?style=for-the-badge&logo=github&logoColor=ffffff)<br>
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
-![PhotoShop](https://img.shields.io/badge/-Phtoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
+![PhotoShop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-cf9ff2?style=for-the-badge&logo=figma&logoColor=ffffff)
 
 
